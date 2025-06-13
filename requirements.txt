@@ -1,0 +1,6 @@
+pdfplumber
+cohere
+python-dotenv
+PyPDF2
+streamlit
+openai
